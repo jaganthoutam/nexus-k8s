@@ -1,6 +1,6 @@
 # nexus-k8s
 
-     mkdir /vagrant/nexus-data
+     mkdir -p /data/nexus-data
 
 Apply Nexus in K8s
 
