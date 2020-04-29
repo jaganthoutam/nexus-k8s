@@ -65,4 +65,4 @@ spec:
       volumes:
       - name: nexus-storage
         hostPath:
-          path: '/vagrant/nexus-data'
+          path: '/data/nexus-data'
